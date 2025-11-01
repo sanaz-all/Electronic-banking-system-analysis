@@ -47,4 +47,4 @@ This project was conducted as part of a **team effort** in our university course
 
 ### 🤝 Contributors
 - [SanazAllahyari](https://github.com/Sanaz-all)
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
